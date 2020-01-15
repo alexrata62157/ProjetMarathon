@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Moon2_0Regular';
+    src: url('fonts/Moon2_0Regular.eot');
+    src: url('fonts/Moon2_0Regular.eot') format('embedded-opentype'),
+         url('fonts/Moon2_0Regular.woff2') format('woff2'),
+         url('fonts/Moon2_0Regular.woff') format('woff'),
+         url('fonts/Moon2_0Regular.ttf') format('truetype'),
+         url('fonts/Moon2_0Regular.svg#Moon2_0Regular') format('svg');
+}
